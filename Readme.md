@@ -7,3 +7,9 @@
 Model School Ambedkar Chowk , Rohtak (2009-2021) https://modelschoolrohtak.com/
 
 CHITKARA UNIVERSITY INSTITUTE OF ENGINEERING & TECHNOLOGY (CUIET) https://www.chitkara.edu.in/engineering/colleges-punjab-chandigarh
+
+## Research Interest 
+
+Cybersecurity
+A.I.
+Machine Learning
